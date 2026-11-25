@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "category": "Mystery & Detective",
+  "publishedYear": 1892,
+  "pageCount": 10,
+  "summary": "A sample mystery collection featuring observation, deduction, and the partnership of Holmes and Watson.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/sherlock_holmes.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/sherlock_holmes.pdf"
+}
