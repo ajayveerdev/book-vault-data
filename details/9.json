@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "title": "The Jungle Book",
+  "author": "Rudyard Kipling",
+  "category": "Adventure",
+  "publishedYear": 1894,
+  "pageCount": 10,
+  "summary": "Mowgli grows up among wolves and learns the laws and dangers of the jungle.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/jungle_book.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/jungle_book.pdf"
+}
