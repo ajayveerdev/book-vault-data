@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "category": "Classic Romance",
+  "publishedYear": 1813,
+  "pageCount": 10,
+  "summary": "A lively tale of first impressions, family expectations, and love in Regency England.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/pride_and_prejudice.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/pride_and_prejudice.pdf"
+}
