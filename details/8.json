@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "title": "The Secret Garden",
+  "author": "Frances Hodgson Burnett",
+  "category": "Children's Classic",
+  "publishedYear": 1911,
+  "pageCount": 10,
+  "summary": "A lonely child discovers a locked garden and the healing power of friendship and nature.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/secret_garden.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/secret_garden.pdf"
+}
