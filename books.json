@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic Romance",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/pride_and_prejudice.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/alice_in_wonderland.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery & Detective",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/sherlock_holmes.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Gothic Sci-Fi",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/frankenstein.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Gothic Horror",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/dracula.jpg"
+  },
+  {
+    "id": 6,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "category": "Historical Fiction",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/tale_of_two_cities.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "category": "Fantasy",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/wizard_of_oz.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "category": "Children's Classic",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/secret_garden.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "category": "Adventure",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/jungle_book.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "category": "Adventure",
+    "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/tom_sawyer.jpg"
+  }
+]
