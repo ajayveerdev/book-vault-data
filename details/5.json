@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "category": "Gothic Horror",
+  "publishedYear": 1897,
+  "pageCount": 10,
+  "summary": "A gothic adventure told through journals and letters as a mysterious danger reaches England.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/dracula.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/dracula.pdf"
+}
