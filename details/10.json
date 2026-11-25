@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "category": "Adventure",
+  "publishedYear": 1876,
+  "pageCount": 10,
+  "summary": "A mischievous boy finds adventure along the Mississippi River and learns about courage and responsibility.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/tom_sawyer.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/tom_sawyer.pdf"
+}
