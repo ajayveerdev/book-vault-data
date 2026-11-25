@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "category": "Fantasy",
+  "publishedYear": 1900,
+  "pageCount": 10,
+  "summary": "Dorothy and her companions travel through a magical land in search of home and courage.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/wizard_of_oz.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/wizard_of_oz.pdf"
+}
