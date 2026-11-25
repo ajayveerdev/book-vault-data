@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "category": "Fantasy",
+  "publishedYear": 1865,
+  "pageCount": 10,
+  "summary": "A curious girl tumbles into a strange world where logic turns upside down.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/alice_in_wonderland.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/alice_in_wonderland.pdf"
+}
