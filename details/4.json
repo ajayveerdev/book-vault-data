@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "category": "Gothic Sci-Fi",
+  "publishedYear": 1818,
+  "pageCount": 10,
+  "summary": "A cautionary story about ambition, responsibility, loneliness, and the consequences of creation.",
+  "coverUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/Covers/frankenstein.jpg",
+  "pdfUrl": "https://raw.githubusercontent.com/ajayveerdev/book-vault-data/main/PDFs/frankenstein.pdf"
+}
